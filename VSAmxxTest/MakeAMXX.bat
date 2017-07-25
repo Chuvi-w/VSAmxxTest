@@ -60,7 +60,6 @@ goto :Make
 			goto :GetAnotherSmaFile
 		)
 	)
-	popd
 	if !bError! NEQ 0 (
 		echo Compilation failed
 		pause

@@ -56,9 +56,6 @@
   <ItemDefinitionGroup>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="readme.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="TestPlugin.sma">
       <FileType>Document</FileType>
     </ClCompile>
